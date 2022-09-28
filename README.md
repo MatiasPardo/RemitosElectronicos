@@ -2,7 +2,7 @@
 
 ## Starting 🚀
 
-Tools for sending electronic remittances in ARBA
+Tools for sending electronic remits in ARBA
 
 ### Deploy 🔧
 ```
